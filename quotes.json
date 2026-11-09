@@ -2,13 +2,13 @@
   "version": "2026-11-09",
   "note": "把 V1 的 quotes.json 直接搬过来即可，格式完全不变。text 是唯一必填字段。",
   "quotes": [
-    { "text": "世上本没有路，走的人多了，也便成了路。", "author": "鲁迅", "source": "《故乡》", "category": "励志" },
-    { "text": "不积跬步，无以至千里；不积小流，无以成江海。", "author": "荀子", "source": "《劝学》", "category": "励志" },
-    { "text": "生活不是等待暴风雨过去，而是学会在雨中跳舞。", "author": "维维安·格林", "category": "人生" },
-    { "text": "凡是过往，皆为序章。", "author": "莎士比亚", "source": "《暴风雨》", "category": "人生" },
-    { "text": "知之为知之，不知为不知，是知也。", "author": "孔子", "source": "《论语》", "category": "学习" },
-    { "text": "天行健，君子以自强不息。", "author": "", "source": "《周易》", "category": "励志" },
-    { "text": "我们都在阴沟里，但仍有人仰望星空。", "author": "奥斯卡·王尔德", "category": "人生" },
-    { "text": "行到水穷处，坐看云起时。", "author": "王维", "source": "《终南别业》", "category": "豁达" }
+    { "text": "1世上本没有路，走的人多了，也便成了路。", "author": "鲁迅", "source": "《故乡》", "category": "励志" },
+    { "text": "1不积跬步，无以至千里；不积小流，无以成江海。", "author": "荀子", "source": "《劝学》", "category": "励志" },
+    { "text": "1生活不是等待暴风雨过去，而是学会在雨中跳舞。", "author": "维维安·格林", "category": "人生" },
+    { "text": "1凡是过往，皆为序章。", "author": "莎士比亚", "source": "《暴风雨》", "category": "人生" },
+    { "text": "1知之为知之，不知为不知，是知也。", "author": "孔子", "source": "《论语》", "category": "学习" },
+    { "text": "1天行健，君子以自强不息。", "author": "", "source": "《周易》", "category": "励志" },
+    { "text": "1我们都在阴沟里，但仍有人仰望星空。", "author": "奥斯卡·王尔德", "category": "人生" },
+    { "text": "1行到水穷处，坐看云起时。", "author": "王维", "source": "《终南别业》", "category": "豁达" }
   ]
 }
